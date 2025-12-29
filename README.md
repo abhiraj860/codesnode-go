@@ -1,1 +1,0 @@
-# codesnode-go
